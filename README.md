@@ -1,4 +1,5 @@
-# 42sh
+# ![terminal](https://user-images.githubusercontent.com/41307842/199750827-87fb36be-0c41-40db-829a-17c1ce206127.png)
+ 42sh
 
 ![Example]![terminal](https://user-images.githubusercontent.com/41307842/199750705-2825994e-08cc-4100-b3f3-2df93fb07af0.png)
 
