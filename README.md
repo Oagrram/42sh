@@ -1,6 +1,7 @@
 # 42sh
 
-![Example](https://i.ibb.co/Jt3g7R8/Screen-Shot-2020-11-13-at-2-46-08-PM.png)
+![Example]![terminal](https://user-images.githubusercontent.com/41307842/199750705-2825994e-08cc-4100-b3f3-2df93fb07af0.png)
+
 
 As a coder in training, there are moments, which marks your life. Forever. 42sh is one of those moments. Achieving this project is a milestone at 42(school 42).
 
